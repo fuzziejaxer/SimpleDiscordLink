@@ -1,0 +1,10 @@
+name: SimpleDiscordPlugin
+version: '${version}'
+main: me.fuzzie.sdl.main
+api-version: 1.17
+commands:
+  discord:
+    description: sends the discord link the the user
+    usage: /discord
+    permission: sdl.use
+    permission-message: No permission
