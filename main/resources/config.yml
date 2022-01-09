@@ -6,5 +6,7 @@
 # https://www.spigotmc.org/resources/simplediscordlink.95893/
 
 
+link:
+  discord-msg: 'Join Our Server '
 
-vote-link: 'Change this text in the config.yml'
+  discord-link: 'Change this text in the config.yml'
